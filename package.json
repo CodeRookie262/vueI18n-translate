@@ -1,0 +1,35 @@
+{
+  "name": "vuei18n-translate",
+  "version": "1.0.0",
+  "description": "这是一款 i18n $t 内容自动提取工具。",
+  "main": "index.js",
+  "bin": {
+    "v18n": "bin/i18n.js"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeRookie262/vueI18n-translate.git"
+  },
+  "keywords": [
+    "vue",
+    "i18n",
+    "$t",
+    "翻译提取"
+  ],
+  "author": "CodeRookie262",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeRookie262/vueI18n-translate/issues"
+  },
+  "homepage": "https://github.com/CodeRookie262/vueI18n-translate#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^9.4.1"
+  }
+}
